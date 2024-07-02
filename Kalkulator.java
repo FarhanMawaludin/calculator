@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Kalkulator {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)  {
         Scanner input = new Scanner(System.in);
         int numbers1, numbers2, choice, result= 0;
         System.out.println("Program Kalkulator Sederhana");
